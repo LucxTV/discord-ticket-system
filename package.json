@@ -1,0 +1,13 @@
+{
+  "name": "planetbot",
+  "version": "1.3",
+  "description": "PlanetPvP Bot by LucxTV",
+  "main": "bot.js",
+  "type": "module",
+  "scripts": {
+    "start": "node bot.js or npm start"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.3"
+  }
+}

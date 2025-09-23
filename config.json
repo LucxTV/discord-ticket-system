@@ -1,0 +1,63 @@
+{
+  "token": "DEIN_BOT_TOKEN_HIER_EINFÜGEN",
+  "guildId": "DEINE_GUILD_ID_HIER_EINFÜGEN",
+
+  "ticketCategoryId": "TICKET_KATEGORIE_ID_HIER_EINFÜGEN",
+  "closedCategoryId": "GESCHLOSSENE_KATEGORIE_ID_HIER_EINFÜGEN",
+
+  "adminRoleId": "ADMIN_ROLLEN_ID_HIER_EINFÜGEN",
+  "moderatorRoleId": "MODERATOR_ROLLEN_ID_HIER_EINFÜGEN",
+
+  "applyCategoryId": "BEWERBUNGS_KATEGORIE_ID_HIER_EINFÜGEN",
+  "closedApplyCategoryId": "GESCHLOSSENE_BEWERBUNGS_KATEGORIE_ID_HIER_EINFÜGEN",
+
+  "unbanCategoryId": "UNBAN_KATEGORIE_ID_HIER_EINFÜGEN",
+  "closedUnbanCategoryId": "GESCHLOSSENE_UNBAN_KATEGORIE_ID_HIER_EINFÜGEN",
+  "unbanAcceptedCategoryId": "UNBAN_ANGENOMMEN_KATEGORIE_ID_HIER_EINFÜGEN",
+
+  "mysql": {
+    "dbHost": "DEIN_DATENBANK_HOST_HIER_EINFÜGEN",
+    "dbUser": "DEIN_DATENBANK_BENUTZERNAME_HIER_EINFÜGEN",
+    "dbPassword": "DEIN_DATENBANK_PASSWORT_HIER_EINFÜGEN",
+    "dbName": "DEIN_DATENBANK_NAME_HIER_EINFÜGEN",
+    "dbPort": 3306
+  },
+  "emojis": {
+    "ticket": "<:paper:1420114175685955635>",
+    "apply": "<:book2:1420129491757436979>",
+    "unban": "<:Golden_Apple:1420116129887551740>",
+    "appealType": "<:book3:1420127261662642238>",
+    "appealReason": "<:book2:1420129491757436979>",
+    "bannedReason": "<:luckyblock:1420130627646390346>",
+    "banId": "<:slime:1420130903971332176>",
+    "minecraftName": "<:minecraft:1420129625891147966>",
+    "banReason": "<:tnt:1420129048629088438>",
+    "bannedBy": "<:nametag:1420141259711840266>",
+    "bannedOn": "<:lava:1420129048629088438>",
+    "banUntil": "<:Golden_Apple:1420116129887551740>",
+    "banDuration": "<:clock:1420130331213824020>",
+    "banCount": "<:enderpearl:1420130057942466654>",
+    "punishmentType": "<:spyglass:1420146653649834025>",
+    "lastBans": "<:book:1420130990784905337>",
+    "category": "<:map:1420147703211626678>",
+    "issue": "<:map:1420129491757436979>",
+    "position": "<:nametag:1420141259711840266>",
+    "applicationText": "<:paper:1420114175685955635>",
+    "twitch": "<:Twitch:1420082224635838625>",
+    "youtube": "<:YouTube:1420082285474091038>",
+    "tiktok": "<:Tiktok:1420082337726730280>",
+    "close": "<:close:1420142107636662412>",
+    "reopen": "<:reopen:1420140425309716703>",
+    "delete": "<:delete:1420131102739267654>",
+    "accept": "<:minecraft_Accept:1420112865612009643>",
+    "reject": "<:minecraft_deny:1420112891603849387>",
+    "technical": "<:technical:1420138916031365120>",
+    "report": "<:tnt:1420129048629088438>",
+    "bug": "<:silverfish:1420137409961787543>",
+    "other": "<:luckyblock:1420130627646390346>",
+    "moderator": "<:moderator:1420133449326530672>",
+    "developer": "<:developer:1420133123244691496>",
+    "builder": "<:builder:1420131783533662348>",
+    "media": "<:media:1420131398798413925>"
+  }
+}
