@@ -2,6 +2,7 @@ Discord Ticket & Unban Appeal System
 A powerful and feature-rich Discord bot designed to handle support tickets, staff applications, and unban appeals for Minecraft servers. This bot seamlessly integrates with your Minecraft server's database to provide detailed ban information and streamline the appeal process.
 
 🎯 Features:
+
 🎫 Ticket System
 Category-based tickets: Technical problems, player reports, bug reports, and other inquiries
 
