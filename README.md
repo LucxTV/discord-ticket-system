@@ -12,7 +12,9 @@ Staff notifications: Automatic role mentions for quick response times
 
 Ticket management: Close, reopen, and delete tickets with ease
 
+
 📝 Staff Applications:
+
 Position-specific applications: Moderator, Developer, Builder, and Media/Famous roles
 
 Media applications: Special form for content creators with social media links
@@ -21,7 +23,9 @@ Customizable questions: Tailor application questions for each position
 
 Secure channel creation: Private channels for each application
 
+
 🔒 Unban Appeal System:
+
 Database integration: Connects to your Minecraft server's punishment database
 
 Ban verification: Automatically validates Ban IDs and retrieves ban details
@@ -30,7 +34,10 @@ Comprehensive ban history: Shows previous bans, duration, and punishment history
 
 Staff decision tools: Accept or reject appeals with one click
 
+
+
 🚀 Quick Start:
+
 Prerequisites
 Node.js 16.9.0 or higher
 
@@ -88,7 +95,10 @@ Ban durations and reasons
 
 Staff member who issued the ban
 
+
+
 🎨 Customization:
+
 Emoji System
 Easily customize all emojis through the config file, u can use custom discord emojis:
 
@@ -109,7 +119,10 @@ Applications: Green (#10B981)
 
 Unban Appeals: Red (#EF4444)
 
+
+
 🔧 Technical Features:
+
 Database Queries
 Real-time ban information lookup
 
@@ -137,7 +150,10 @@ Punishment type identification
 
 Historical ban context
 
+
+
 📊 Ban Information Display:
+
 When a user submits an unban appeal, the bot automatically displays:
 
 Ban Details: ID, reason, duration, and type
@@ -148,7 +164,10 @@ Staff Information: Who issued the ban and when
 
 Appeal Status: Real-time decision tracking
 
+
+
 🛡️ Security Features:
+
 Private channels: All tickets are hidden from non-staff members
 
 User verification: Ensures only authorized users can access their tickets
@@ -157,8 +176,14 @@ Database protection: Secure MySQL connections with error handling
 
 Permission checks: Prevents unauthorized command usage
 
+
+
 🤝 Support:
+
 For support, bug reports, or feature requests, please open an issue on GitHub or contact me on Discord.
 
+
+
 📄 License:
+
 This project is licensed under the MIT License - see the LICENSE file for details.
