@@ -413,7 +413,6 @@ async function createTicket(interaction, type) {
     let embed;
 
     if (type === "unban") {
-      // UNBAN APPEAL EMBED
       embed = new EmbedBuilder()
         .setColor("DarkButNotBlack")
         .addFields(
