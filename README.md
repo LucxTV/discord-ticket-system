@@ -76,7 +76,10 @@ Start the bot
 
 bash
 node bot.js
+
+
 ⚙️ Configuration:
+
 Channel Setup Commands
 !setup-tickets - Creates the ticket selection menu
 
